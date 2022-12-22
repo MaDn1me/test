@@ -19,4 +19,3 @@
     * https://pytba.readthedocs.io/en/latest/index.html#
 * Документация на SQLite3
     * https://docs.python.org/3/library/sqlite3.html
-
