@@ -1,0 +1,3 @@
+# Python 3.9
+# pyTelegramBotApi 4.8.0
+# SQLite3
